@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://kdoubleh22.github.io/author/kdoubleh22/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://kdoubleh22.github.io/tag/quiz2/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://kdoubleh22.github.io/" rel="alternate" type="text/html" />
   <updated>2020-11-22T18:08:29+09:00</updated>
-  <id>https://kdoubleh22.github.io/author/kdoubleh22/feed.xml</id>
+  <id>https://kdoubleh22.github.io/tag/quiz2/feed.xml</id>
 
   
   
@@ -32,12 +32,12 @@
 
   
     <entry>
-      <title type="html">팀 별 진행사항 정리</title>
-      <link href="https://kdoubleh22.github.io/2" rel="alternate" type="text/html" title="팀 별 진행사항 정리" />
+      <title type="html">나의 개발 능력 및 역할분석</title>
+      <link href="https://kdoubleh22.github.io/4" rel="alternate" type="text/html" title="나의 개발 능력 및 역할분석" />
       <published>2020-11-22T00:00:00+09:00</published>
       <updated>2020-11-22T00:00:00+09:00</updated>
-      <id>https://kdoubleh22.github.io/2</id>
-      <content type="html" xml:base="https://kdoubleh22.github.io/2">&lt;p&gt;팀 별 진행사항 정리&lt;/p&gt;</content>
+      <id>https://kdoubleh22.github.io/4</id>
+      <content type="html" xml:base="https://kdoubleh22.github.io/4">&lt;p&gt;나의 개발 능력 및 역할분석&lt;/p&gt;</content>
 
       
       
@@ -58,7 +58,7 @@
       
 
       
-        <summary type="html">팀 별 진행사항 정리</summary>
+        <summary type="html">나의 개발 능력 및 역할분석</summary>
       
 
       
@@ -100,12 +100,12 @@
     </entry>
   
     <entry>
-      <title type="html">나의 개발 능력 및 역할분석</title>
-      <link href="https://kdoubleh22.github.io/4" rel="alternate" type="text/html" title="나의 개발 능력 및 역할분석" />
+      <title type="html">팀 별 진행사항 정리</title>
+      <link href="https://kdoubleh22.github.io/2" rel="alternate" type="text/html" title="팀 별 진행사항 정리" />
       <published>2020-11-22T00:00:00+09:00</published>
       <updated>2020-11-22T00:00:00+09:00</updated>
-      <id>https://kdoubleh22.github.io/4</id>
-      <content type="html" xml:base="https://kdoubleh22.github.io/4">&lt;p&gt;나의 개발 능력 및 역할분석&lt;/p&gt;</content>
+      <id>https://kdoubleh22.github.io/2</id>
+      <content type="html" xml:base="https://kdoubleh22.github.io/2">&lt;p&gt;팀 별 진행사항 정리&lt;/p&gt;</content>
 
       
       
@@ -126,41 +126,7 @@
       
 
       
-        <summary type="html">나의 개발 능력 및 역할분석</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</title>
-      <link href="https://kdoubleh22.github.io/5" rel="alternate" type="text/html" title="나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리" />
-      <published>2020-11-22T00:00:00+09:00</published>
-      <updated>2020-11-22T00:00:00+09:00</updated>
-      <id>https://kdoubleh22.github.io/5</id>
-      <content type="html" xml:base="https://kdoubleh22.github.io/5">&lt;p&gt;나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>kdoubleh22</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="quiz2" />
-      
-
-      
-        <summary type="html">나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</summary>
+        <summary type="html">팀 별 진행사항 정리</summary>
       
 
       
@@ -195,6 +161,40 @@
 
       
         <summary type="html">새로운 정적페이지 작성 및 개인화</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</title>
+      <link href="https://kdoubleh22.github.io/5" rel="alternate" type="text/html" title="나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리" />
+      <published>2020-11-22T00:00:00+09:00</published>
+      <updated>2020-11-22T00:00:00+09:00</updated>
+      <id>https://kdoubleh22.github.io/5</id>
+      <content type="html" xml:base="https://kdoubleh22.github.io/5">&lt;p&gt;나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>kdoubleh22</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="quiz2" />
+      
+
+      
+        <summary type="html">나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</summary>
       
 
       
