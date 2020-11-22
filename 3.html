@@ -18,6 +18,14 @@
     <link rel="stylesheet" type="text/css" href="/assets/built/screen.css" />
     <link rel="stylesheet" type="text/css" href="/assets/built/screen.edited.css" />
     <link rel="stylesheet" type="text/css" href="/assets/built/syntax.css" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- 웹폰트 추가 -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
+
+
     <!-- highlight.js -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
@@ -43,8 +51,7 @@
     <meta property="og:site_name" content="2020 OSS실습 11조 김현호" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="선정 프로젝트 분석 및 개선방향" />
-    <meta property="og:description" content="선정 프로젝트 분석 및 개선방향
-" />
+    <meta property="og:description" content="Quiz2 대체과제는 5부분으로 구성되어 있습니다. 새로운 정적페이지 작성 및 개인화 팀 별 진행사항 정리 선정 프로젝트 분석 및 개선방향 나의 개발 능력 및 역할분석 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리 선정 프로젝트 : KoreaNewsCrawler 이 크롤러는 네이버 포털에 올라오는 언론사 뉴스 기사들을 크롤링 해주는 크롤러다. 크롤링" />
     <meta property="og:url" content="https://kdoubleh22.github.io/3" />
     <meta property="og:image" content="https://kdoubleh22.github.io/assets/built/images/skkulogo.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
@@ -54,8 +61,7 @@
     <meta property="article:tag" content="Quiz2" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="선정 프로젝트 분석 및 개선방향" />
-    <meta name="twitter:description" content="선정 프로젝트 분석 및 개선방향
-" />
+    <meta name="twitter:description" content="Quiz2 대체과제는 5부분으로 구성되어 있습니다. 새로운 정적페이지 작성 및 개인화 팀 별 진행사항 정리 선정 프로젝트 분석 및 개선방향 나의 개발 능력 및 역할분석 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리 선정 프로젝트 : KoreaNewsCrawler 이 크롤러는 네이버 포털에 올라오는 언론사 뉴스 기사들을 크롤링 해주는 크롤러다. 크롤링" />
     <meta name="twitter:url" content="https://kdoubleh22.github.io/" />
     <meta name="twitter:image" content="https://kdoubleh22.github.io/assets/built/images/skkulogo.jpg" />
     <meta name="twitter:label1" content="Written by" />
@@ -87,8 +93,7 @@
         "@type": "WebPage",
         "@id": "https://kdoubleh22.github.io/3"
     },
-    "description": "선정 프로젝트 분석 및 개선방향
-"
+    "description": "Quiz2 대체과제는 5부분으로 구성되어 있습니다. 새로운 정적페이지 작성 및 개인화 팀 별 진행사항 정리 선정 프로젝트 분석 및 개선방향 나의 개발 능력 및 역할분석 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리 선정 프로젝트 : KoreaNewsCrawler 이 크롤러는 네이버 포털에 올라오는 언론사 뉴스 기사들을 크롤링 해주는 크롤러다. 크롤링"
 }
     </script>
 
@@ -183,7 +188,37 @@ into the {body} of the default.hbs template -->
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    <p>선정 프로젝트 분석 및 개선방향</p>
+                    <p><span class="table-of-contents-list">Quiz2 대체과제는 5부분으로 구성되어 있습니다. </span></p>
+<ul class="table-of-contents-list">
+    <li><a href="./1">새로운 정적페이지 작성 및 개인화</a></li>
+    <li><a href="./2">팀 별 진행사항 정리</a></li>
+    <li><a href="./3">선정 프로젝트 분석 및 개선방향</a></li>
+    <li><a href="./4">나의 개발 능력 및 역할분석</a></li>
+    <li><a href="./5">나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</a></li>
+</ul>
+
+<p>선정 프로젝트 : KoreaNewsCrawler</p>
+<ul>
+  <li>이 크롤러는 네이버 포털에 올라오는 언론사 뉴스 기사들을 크롤링 해주는 크롤러다.
+    크롤링 가능한 기사 카테고리는 정치, 경제, 생활문화, IT과학, 사회, 세계, 오피니언이다.
+    스포츠 기사같은 경우 야구, 축구, 농구, 배구, 골프, 일반 스포츠, e스포츠이다.</li>
+  <li>함수 소개
+    <ul>
+      <li>set_category(category_name) : 이 메서드는 수집하려고자 하는 카테고리는 설정하는 메서드다.
+                                   파라미터에 들어갈 수 있는 카테고리는 ‘정치’, ‘경제’, ‘사회’, ‘생활문화’, ‘IT과학’, 
+                                   ‘세계’, ‘오피니언’이다.
+                                   파라미터는 여러 개 들어갈 수 있다.</li>
+      <li>set_date_range(startyear, startmonth, endyear, endmonth) : 이 메서드는 수집하려고자 하는 뉴스의 기간을 의미한다.
+   기본적으로 startmonth월부터 endmonth월까지 데이터를 수집한다.</li>
+      <li>start() : 이 메서드는 크롤링 실행 메서드이다.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>개선방향 : 현재 <a href="https://github.com/lumyjuwon/KoreaNewsCrawler">https://github.com/lumyjuwon/KoreaNewsCrawler</a> 사이트의 KoreaNewsCrawler는 2019년 8월 11일 이후로 commit
+    활동을 하고있지않다. 홈페이지에서 스포츠기사는 현재 html 형식이 바껴 사용이 불가능 한 상태인 것을 확인하였고, 도움을 요청하였기에 
+    해당부분을 우선으로 한다. 그것 뿐만 아니라 issue에서 날짜뿐만 아니라 시간까지 제한하여 크롤링 하는 법, 윈도우10에서는 해결이 되지 않는
+    점들을 해결할 예정이다. 이것들이 해결이 되면 가독성을 좋게 한다거나, 분야를 세분화하는 등 추가적인 기능을 회의를 통해 제공할 예정이다.</p>
 
                 </div>
             </section>

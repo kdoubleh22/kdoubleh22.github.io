@@ -1,1 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://kdoubleh22.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kdoubleh22.github.io/" rel="alternate" type="text/html" /><updated>2020-11-22T18:08:29+09:00</updated><id>https://kdoubleh22.github.io/</id><title type="html">2020 OSS실습 11조 김현호</title><subtitle>정적페이지</subtitle><entry><title type="html">나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</title><link href="https://kdoubleh22.github.io/5" rel="alternate" type="text/html" title="나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리" /><published>2020-11-22T00:00:00+09:00</published><updated>2020-11-22T00:00:00+09:00</updated><id>https://kdoubleh22.github.io/5</id><content type="html" xml:base="https://kdoubleh22.github.io/5">&lt;p&gt;나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리&lt;/p&gt;</content><author><name>kdoubleh22</name></author><category term="quiz2" /><summary type="html">나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</summary></entry><entry><title type="html">나의 개발 능력 및 역할분석</title><link href="https://kdoubleh22.github.io/4" rel="alternate" type="text/html" title="나의 개발 능력 및 역할분석" /><published>2020-11-22T00:00:00+09:00</published><updated>2020-11-22T00:00:00+09:00</updated><id>https://kdoubleh22.github.io/4</id><content type="html" xml:base="https://kdoubleh22.github.io/4">&lt;p&gt;나의 개발 능력 및 역할분석&lt;/p&gt;</content><author><name>kdoubleh22</name></author><category term="quiz2" /><summary type="html">나의 개발 능력 및 역할분석</summary></entry><entry><title type="html">선정 프로젝트 분석 및 개선방향</title><link href="https://kdoubleh22.github.io/3" rel="alternate" type="text/html" title="선정 프로젝트 분석 및 개선방향" /><published>2020-11-22T00:00:00+09:00</published><updated>2020-11-22T00:00:00+09:00</updated><id>https://kdoubleh22.github.io/3</id><content type="html" xml:base="https://kdoubleh22.github.io/3">&lt;p&gt;선정 프로젝트 분석 및 개선방향&lt;/p&gt;</content><author><name>kdoubleh22</name></author><category term="quiz2" /><summary type="html">선정 프로젝트 분석 및 개선방향</summary></entry><entry><title type="html">팀 별 진행사항 정리</title><link href="https://kdoubleh22.github.io/2" rel="alternate" type="text/html" title="팀 별 진행사항 정리" /><published>2020-11-22T00:00:00+09:00</published><updated>2020-11-22T00:00:00+09:00</updated><id>https://kdoubleh22.github.io/2</id><content type="html" xml:base="https://kdoubleh22.github.io/2">&lt;p&gt;팀 별 진행사항 정리&lt;/p&gt;</content><author><name>kdoubleh22</name></author><category term="quiz2" /><summary type="html">팀 별 진행사항 정리</summary></entry><entry><title type="html">새로운 정적페이지 작성 및 개인화</title><link href="https://kdoubleh22.github.io/1" rel="alternate" type="text/html" title="새로운 정적페이지 작성 및 개인화" /><published>2020-11-22T00:00:00+09:00</published><updated>2020-11-22T00:00:00+09:00</updated><id>https://kdoubleh22.github.io/1</id><content type="html" xml:base="https://kdoubleh22.github.io/1">&lt;p&gt;새로운 정적페이지 작성 및 개인화&lt;/p&gt;</content><author><name>kdoubleh22</name></author><category term="quiz2" /><summary type="html">새로운 정적페이지 작성 및 개인화</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://kdoubleh22.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kdoubleh22.github.io/" rel="alternate" type="text/html" /><updated>2020-11-22T20:29:15+09:00</updated><id>https://kdoubleh22.github.io/</id><title type="html">2020 OSS실습 11조 김현호</title><subtitle>정적페이지</subtitle><entry><title type="html">나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</title><link href="https://kdoubleh22.github.io/5" rel="alternate" type="text/html" title="나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리" /><published>2020-11-22T00:00:00+09:00</published><updated>2020-11-22T00:00:00+09:00</updated><id>https://kdoubleh22.github.io/5</id><content type="html" xml:base="https://kdoubleh22.github.io/5">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Quiz2 대체과제는 5부분으로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./1&quot;&gt;새로운 정적페이지 작성 및 개인화&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./2&quot;&gt;팀 별 진행사항 정리&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./3&quot;&gt;선정 프로젝트 분석 및 개선방향&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./4&quot;&gt;나의 개발 능력 및 역할분석&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./5&quot;&gt;나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;개인별 기여 방안 및 계획 정리&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;프로젝트의 과정과 결과를 정적페이지에 담기&lt;/li&gt;
+  &lt;li&gt;ruby, bundler, webstorm을 이용하여 css customizing&lt;/li&gt;
+  &lt;li&gt;코드팀과의 협력을 통한 issue 및 idea 제시&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>kdoubleh22</name></author><category term="quiz2" /><summary type="html">Quiz2 대체과제는 5부분으로 구성되어 있습니다. 새로운 정적페이지 작성 및 개인화 팀 별 진행사항 정리 선정 프로젝트 분석 및 개선방향 나의 개발 능력 및 역할분석 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</summary></entry><entry><title type="html">나의 개발 능력 및 역할분석</title><link href="https://kdoubleh22.github.io/4" rel="alternate" type="text/html" title="나의 개발 능력 및 역할분석" /><published>2020-11-22T00:00:00+09:00</published><updated>2020-11-22T00:00:00+09:00</updated><id>https://kdoubleh22.github.io/4</id><content type="html" xml:base="https://kdoubleh22.github.io/4">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Quiz2 대체과제는 5부분으로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./1&quot;&gt;새로운 정적페이지 작성 및 개인화&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./2&quot;&gt;팀 별 진행사항 정리&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./3&quot;&gt;선정 프로젝트 분석 및 개선방향&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./4&quot;&gt;나의 개발 능력 및 역할분석&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./5&quot;&gt;나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;역할 : 정적페이지 관리&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;3명의 학우들이 코드작성을 해주면 그 과정과 결과물들을 잘 표현할 수 있게 페이지를 구성한다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;개발 능력&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;단순히 jekyll theme를 clone하여 글자만 바꾸는 것이 아닌 로컬환경에서 정적페이지를 구성할 수 있다.&lt;/li&gt;
+  &lt;li&gt;ruby, bundler, webstorm 등을 이용하여 로컬에서 ‘bundle exec jekyll serve’로 정적페이지를 작성할 수 있다.&lt;/li&gt;
+  &lt;li&gt;gulp를 통한 css customizing으로 가독성을 높일 수 있다.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>kdoubleh22</name></author><category term="quiz2" /><summary type="html">Quiz2 대체과제는 5부분으로 구성되어 있습니다. 새로운 정적페이지 작성 및 개인화 팀 별 진행사항 정리 선정 프로젝트 분석 및 개선방향 나의 개발 능력 및 역할분석 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</summary></entry><entry><title type="html">선정 프로젝트 분석 및 개선방향</title><link href="https://kdoubleh22.github.io/3" rel="alternate" type="text/html" title="선정 프로젝트 분석 및 개선방향" /><published>2020-11-22T00:00:00+09:00</published><updated>2020-11-22T00:00:00+09:00</updated><id>https://kdoubleh22.github.io/3</id><content type="html" xml:base="https://kdoubleh22.github.io/3">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Quiz2 대체과제는 5부분으로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./1&quot;&gt;새로운 정적페이지 작성 및 개인화&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./2&quot;&gt;팀 별 진행사항 정리&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./3&quot;&gt;선정 프로젝트 분석 및 개선방향&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./4&quot;&gt;나의 개발 능력 및 역할분석&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./5&quot;&gt;나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;선정 프로젝트 : KoreaNewsCrawler&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;이 크롤러는 네이버 포털에 올라오는 언론사 뉴스 기사들을 크롤링 해주는 크롤러다.
+    크롤링 가능한 기사 카테고리는 정치, 경제, 생활문화, IT과학, 사회, 세계, 오피니언이다.
+    스포츠 기사같은 경우 야구, 축구, 농구, 배구, 골프, 일반 스포츠, e스포츠이다.&lt;/li&gt;
+  &lt;li&gt;함수 소개
+    &lt;ul&gt;
+      &lt;li&gt;set_category(category_name) : 이 메서드는 수집하려고자 하는 카테고리는 설정하는 메서드다.
+                                   파라미터에 들어갈 수 있는 카테고리는 ‘정치’, ‘경제’, ‘사회’, ‘생활문화’, ‘IT과학’, 
+                                   ‘세계’, ‘오피니언’이다.
+                                   파라미터는 여러 개 들어갈 수 있다.&lt;/li&gt;
+      &lt;li&gt;set_date_range(startyear, startmonth, endyear, endmonth) : 이 메서드는 수집하려고자 하는 뉴스의 기간을 의미한다.
+   기본적으로 startmonth월부터 endmonth월까지 데이터를 수집한다.&lt;/li&gt;
+      &lt;li&gt;start() : 이 메서드는 크롤링 실행 메서드이다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;개선방향 : 현재 &lt;a href=&quot;https://github.com/lumyjuwon/KoreaNewsCrawler&quot;&gt;https://github.com/lumyjuwon/KoreaNewsCrawler&lt;/a&gt; 사이트의 KoreaNewsCrawler는 2019년 8월 11일 이후로 commit
+    활동을 하고있지않다. 홈페이지에서 스포츠기사는 현재 html 형식이 바껴 사용이 불가능 한 상태인 것을 확인하였고, 도움을 요청하였기에 
+    해당부분을 우선으로 한다. 그것 뿐만 아니라 issue에서 날짜뿐만 아니라 시간까지 제한하여 크롤링 하는 법, 윈도우10에서는 해결이 되지 않는
+    점들을 해결할 예정이다. 이것들이 해결이 되면 가독성을 좋게 한다거나, 분야를 세분화하는 등 추가적인 기능을 회의를 통해 제공할 예정이다.&lt;/p&gt;</content><author><name>kdoubleh22</name></author><category term="quiz2" /><summary type="html">Quiz2 대체과제는 5부분으로 구성되어 있습니다. 새로운 정적페이지 작성 및 개인화 팀 별 진행사항 정리 선정 프로젝트 분석 및 개선방향 나의 개발 능력 및 역할분석 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</summary></entry><entry><title type="html">팀 별 진행사항 정리</title><link href="https://kdoubleh22.github.io/2" rel="alternate" type="text/html" title="팀 별 진행사항 정리" /><published>2020-11-22T00:00:00+09:00</published><updated>2020-11-22T00:00:00+09:00</updated><id>https://kdoubleh22.github.io/2</id><content type="html" xml:base="https://kdoubleh22.github.io/2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Quiz2 대체과제는 5부분으로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./1&quot;&gt;새로운 정적페이지 작성 및 개인화&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./2&quot;&gt;팀 별 진행사항 정리&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./3&quot;&gt;선정 프로젝트 분석 및 개선방향&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./4&quot;&gt;나의 개발 능력 및 역할분석&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./5&quot;&gt;나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;팀원들이 조사해온 각 프로젝트 중에서 투표를 통하여 “KoreaNewsCrawler” 프로젝트를 선정하였다.
+프로젝트 선정 후 기여방법을 세분화하여 코드작성/정적페이지 관리/깃허브 관리 3가지로 역할을 분배하였다.
+각 서브프로젝트별 역할은 다음과 같다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;코드작성 : 고성현 김태완 정요한&lt;/li&gt;
+  &lt;li&gt;정적페이지 관리 : 김현호 박근현&lt;/li&gt;
+  &lt;li&gt;깃허브 관리 : 김상민&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>kdoubleh22</name></author><category term="quiz2" /><summary type="html">Quiz2 대체과제는 5부분으로 구성되어 있습니다. 새로운 정적페이지 작성 및 개인화 팀 별 진행사항 정리 선정 프로젝트 분석 및 개선방향 나의 개발 능력 및 역할분석 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</summary></entry><entry><title type="html">새로운 정적페이지 작성 및 개인화</title><link href="https://kdoubleh22.github.io/1" rel="alternate" type="text/html" title="새로운 정적페이지 작성 및 개인화" /><published>2020-11-22T00:00:00+09:00</published><updated>2020-11-22T00:00:00+09:00</updated><id>https://kdoubleh22.github.io/1</id><content type="html" xml:base="https://kdoubleh22.github.io/1">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Quiz2 대체과제는 5부분으로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./1&quot;&gt;새로운 정적페이지 작성 및 개인화&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./2&quot;&gt;팀 별 진행사항 정리&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./3&quot;&gt;선정 프로젝트 분석 및 개선방향&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./4&quot;&gt;나의 개발 능력 및 역할분석&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./5&quot;&gt;나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;기존에 있던 정적페이지를 삭제하고 현재의 새로운 정적페이지를 작성하였다.
+과제 목적에 맞게 5가지 post를 작성하였고, 목차를 이용하여 post간 이동이 쉽게 하였다. 위의 메뉴를 설정하여
+해당 메뉴로 가기쉽게 만들었고, 태그를 이용하여 태그별로 포스트를 볼 수도 있다.&lt;/p&gt;</content><author><name>kdoubleh22</name></author><category term="quiz2" /><summary type="html">Quiz2 대체과제는 5부분으로 구성되어 있습니다. 새로운 정적페이지 작성 및 개인화 팀 별 진행사항 정리 선정 프로젝트 분석 및 개선방향 나의 개발 능력 및 역할분석 나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리</summary></entry></feed>
